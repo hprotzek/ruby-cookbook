@@ -4,7 +4,7 @@ maintainer_email  "cookbooks@opscode.com"
 license           "Apache 2.0"
 description       "Installs Ruby and related packages"
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version           "0.9.2"
+version           "0.9.3"
 
 recipe "ruby", "Installs Ruby and related packages"
 recipe "1.8", "Installs Ruby 1.8 and related packages"
